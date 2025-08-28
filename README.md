@@ -2,7 +2,7 @@
 
 Thank you for your interest in reading _Grokking Statistics_! This is a topic I wanted to write about for a long time, because statistics is often misunderstood and yet increasingly relevant. So much data is being collected and modern techniques to get automated insights, like machine learning and large language models, amplify both the opportunities and challenges of statistics. Therefore, having a strong foundation in this topic is more important than ever! 
 
-The book is a mix of practical theory, generous illustrations, fun cartoons, and demonstrative Python code. The Python code seeks to demonstrate how techniques work, rather than lean heavily on libraries to do everything for you. 
+The book is a mix of practical theory, generous illustrations, fun cartoons, and demonstrative Python code. The Python code seeks to demonstrate how techniques work, rather than lean heavily on libraries to do everything for you. There is a notebook in each chapter folder, titled `ch4.ipynb`, `ch5.ipynb`, etc., for all the Python code used in the book. Please excuse the mess of SVG and PNG files in each chapter folder. I will be reorganizing them later as I clean up the assets for publishing. 
 
 The current chapters are as follows: 
 
